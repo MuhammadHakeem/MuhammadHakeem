@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadHakeem
 - 👀 I’m interested in mobile / web development
-- 🌱 I’m currently learning Flutter & Firebase
+- 🌱 I’m currently learning Ionic, Flutter & Firebase
 - 📫 How to reach me muhdhakeem526@gmail.com
 
 <!---
