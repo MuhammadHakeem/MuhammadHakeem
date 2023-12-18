@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuhammadHakeem
 - 👀 I’m interested in mobile / web development
-- 🌱 I’m currently learning Ionic, Flutter & Firebase
-- 📫 How to reach me muhdhakeem526@gmail.com
+- 🌱 I’m currently using Angular, Ionic, Flutter, React, Firebase
+- 📫 How to reach me muhdhakeem526@gmail.com or https://www.linkedin.com/in/hakeemadil/
 
 <!---
 MuhammadHakeem/MuhammadHakeem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
