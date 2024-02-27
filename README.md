@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadHakeem
 - 👀 I’m interested in mobile / web development
-- 🌱 I’m currently using Angular, Ionic, Flutter, React, Firebase
+- 🌱 I’m currently using Angular, React, Ionic, Flutter, React, Firebase
 - 📫 How to reach me muhdhakeem526@gmail.com or https://www.linkedin.com/in/hakeemadil/
 
 <!---
